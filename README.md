@@ -4,9 +4,13 @@ Il progetto viene illustrato con una presentazione PowerPoint in cui è presente
 stata effettuata l'analisi.
 
 L'analisi è suddivisa in più fasi:
+
 Exploratory data analysis (EDA),
+
 Choose the proper metric,
-Model definition, training, hyperparameters tuning,
+
+Model definition, training, hyperparameters tuning
+
 Final Evaluation.
 
 Il dataset contenente i dati di una compagnia aerea. L'obiettivo sarà quello di creare un buon modello in grado di predire
